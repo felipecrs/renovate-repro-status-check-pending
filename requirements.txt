@@ -1,0 +1,2 @@
+requests==2.31.0
+homeassistant==2026.4.0
